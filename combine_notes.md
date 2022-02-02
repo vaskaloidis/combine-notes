@@ -2,15 +2,15 @@
 
 ## Resources
 
-- HeckJ: https://heckj.github.io/swiftui-notes/#introduction
-- HeckJ Repo: https://github.com/heckj/swiftui-notes/tree/master/UIKit-Combine
-- https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-environmentobject-to-share-data-between-views
-- https://cocoacasts.com/collections/combine-essentials
+  - HeckJ: https://heckj.github.io/swiftui-notes/#introduction
+  - HeckJ Repo: https://github.com/heckj/swiftui-notes/tree/master/UIKit-Combine
+  - https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-environmentobject-to-share-data-between-views
+  - https://cocoacasts.com/collections/combine-essentials
 
 ## Repositories
 
-- https://github.com/V8tr/InfiniteListSwiftUI/tree/master/InfiniteListSwiftUI
-- https://github.com/Swift-Compiled/pokelist/tree/master/PokeList
+  - https://github.com/V8tr/InfiniteListSwiftUI/tree/master/InfiniteListSwiftUI
+  - https://github.com/Swift-Compiled/pokelist/tree/master/PokeList
 
 
 ### Books
@@ -18,10 +18,10 @@
  - Combine-Aync Book: https://www.raywenderlich.com/books/combine-asynchronous-programming-with-swift/v1.0/chapters/3-transforming-operators#toc-chapter-006-anchor-001
  - Book Repo: https://github.com/raywenderlich/comb-materials/tree/editions/2.0
 
-```
-Username: vaskaloidis
-Password: Flyp2021!!!
-```
+  ```
+  Username: vaskaloidis
+  Password: Flyp2021!!!
+  ```
 
 ### Misc
 
